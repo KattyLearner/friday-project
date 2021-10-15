@@ -1,11 +1,11 @@
 import React from 'react';
 
-function Registration() {
+function PasswordRecovery() {
     return (
     <div>
-        Registration
+        Password Recovery
     </div>
 );
 }
 
-export default Registration;
+export default PasswordRecovery;

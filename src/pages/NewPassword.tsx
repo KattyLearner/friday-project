@@ -1,11 +1,11 @@
 import React from 'react';
 
-function Test() {
+function NewPassword() {
     return (
     <div>
-        Test
+        NewPassword
     </div>
 );
 }
 
-export default Test;
+export default NewPassword;
