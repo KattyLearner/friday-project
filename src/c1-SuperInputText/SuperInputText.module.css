@@ -1,0 +1,33 @@
+.input:focus {
+    outline: none;
+    border-radius: 20px;
+}
+.superInput {
+    display: block;
+    width: 200px;
+    padding: 0 15px;
+    margin: 10px 0 15px;
+    line-height: 30px;
+    border-radius: 10px;
+    color: black;
+    border:  2px solid darkgray;
+    /*background: rgba(255, 255, 255, .2);*/
+    /*font-family: 'Roboto', sans-serif;*/
+}
+
+.errorInput {
+    display: block;
+    width: 200px;
+    padding: 0 15px;
+    margin: 10px 0 15px;
+    line-height: 30px;
+    border-radius: 10px;
+    color: black;
+
+    border:  2px solid #dd3355;
+}
+
+.error {
+    color: #dd3355;
+
+}

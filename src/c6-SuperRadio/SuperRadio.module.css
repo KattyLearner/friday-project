@@ -1,0 +1,24 @@
+.radio {
+appearance: none;
+    height: 10px;
+    width: 10px;
+
+    cursor: pointer;
+    border-radius: 50%;
+    outline: none;
+    background: azure;
+    border: #80bdff solid 2px;
+}
+
+.radio:hover {
+    border: 2px solid #385898;
+}
+
+.radio:focus {
+    border: 2px solid #385898;
+    background: #385898;
+}
+
+.label {
+    cursor: pointer;
+}
